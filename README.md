@@ -7,3 +7,6 @@ Original work from: [FlashExtract: A Framework for Data Extraction by Examples](
 ## Links
 * [Maeda's implementation](https://bitbucket.org/thedtlteam/flashextract/src/master/)
 
+## Repository Content
+
+This repository contains links to items related to our implementation for FlashExtract.
